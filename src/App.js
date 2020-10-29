@@ -14,7 +14,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <StyledDiv>
-          <h1>START GITHUB ACTION FOR REACT + CLOUD FRONT</h1>
+          <h1>START GITHUB ACTION + REACT + S3 + CLOUD FRONT</h1>
           <logo/>
         </StyledDiv>
       </header>
